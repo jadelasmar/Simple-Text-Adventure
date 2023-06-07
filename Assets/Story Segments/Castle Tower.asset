@@ -22,6 +22,6 @@ MonoBehaviour:
     exposed to water? \r\n\r\nWill Luscious one day realize she could do better?
     \r\n\r\nDon\u2019t miss the next installment of the Castle Buttercup adventure!
     \r\n\r\nPress 1 to play again\r\n\r\nPress 2 to exit\r"
-  nextStorySegments:
+  nextStorySegment:
   - {fileID: 11400000, guid: 2ac6c48b49926254981e83c1c6316dea, type: 2}
   - {fileID: 11400000, guid: 2992f8a7c8369654ab8bd380d0f601c4, type: 2}

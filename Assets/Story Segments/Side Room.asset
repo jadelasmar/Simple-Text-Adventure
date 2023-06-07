@@ -25,5 +25,6 @@ MonoBehaviour:
     door.  The door is locked.  To the right of the door, a key hangs on a hook.\r\n\r\nPress
     1 to break the door down using your brute strength \r\n\r\nPress 2 to unlock
     the door using the key hanging on the hook"
-  nextStorySegments:
-  - {fileID: 11400000, guid: 8a6500f9e6f015a47b685433dacc57f3, type: 2}
+  nextStorySegment:
+  - {fileID: 11400000, guid: 3612e72f7fee53c4b804f8b3de979a23, type: 2}
+  - {fileID: 11400000, guid: ae41247223a5dac46ad933d6bbe86427, type: 2}

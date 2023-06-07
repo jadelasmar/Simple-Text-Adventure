@@ -16,6 +16,6 @@ MonoBehaviour:
     Buttercup.  To your right is a closed door.  In front of you, there is a long,
     winding staircase leading up to the castle tower. \r\n\r\nPress 1 to enter the
     door on your right \r\n\r\nPress 2 to climb the staircase\r"
-  nextStorySegments:
+  nextStorySegment:
   - {fileID: 11400000, guid: b1332a65e74295c459aa4676b7361d72, type: 2}
   - {fileID: 11400000, guid: 570bd62e335433240a55b74db7c54ffe, type: 2}

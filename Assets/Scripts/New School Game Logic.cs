@@ -19,6 +19,29 @@ public class NewSchoolGameLogic : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        var nextStorySegment = _currentStorySegment.nextStorySegment;
+
+        for (int i = 0; i < nextStorySegment.Length; i++)
+        {
+            if (Input.GetKeyDown(KeyCode.Alpha1 + i))
+            {
+                _currentStorySegment = nextStorySegment[i];
+            }
+        }
+
+        if (_currentStorySegment.storyText != "Exit Game")
+        {
+            storyContent.text = _currentStorySegment.storyText;
+        }
+        else
+        {
+            ExitGame();
+        }
     }
+    
+    private void ExitGame()
+    {
+        Application.Quit();
+        Debug.Log("App Quit");
+    } 
 }

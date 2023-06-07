@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Exit Game
   m_EditorClassIdentifier: 
   storyText: Exit Game
-  nextStorySegments: []
+  nextStorySegment: []

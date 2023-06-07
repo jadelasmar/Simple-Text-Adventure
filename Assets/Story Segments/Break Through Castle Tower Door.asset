@@ -17,5 +17,5 @@ MonoBehaviour:
     nasty looking black and blue bruises.  \r\n\r\nThe door still stands before you
     with no sign you have had any effect on it. \r\n\r\nThe key is looking like a
     very attractive option right now. \r\n\r\nPress 1 to reconsider your options\r"
-  nextStorySegments:
-  - {fileID: 11400000, guid: 570bd62e335433240a55b74db7c54ffe, type: 2}
+  nextStorySegment:
+  - {fileID: 11400000, guid: b1332a65e74295c459aa4676b7361d72, type: 2}
