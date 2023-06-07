@@ -16,3 +16,5 @@ MonoBehaviour:
     the waters are infested with alligators.\r\n\r\nYikes!  Looks like a strategic
     retreat is in order.\r\n\r\nDid they say \u201Cyikes!\u201D in medieval times?
     Whatever.\r\n\r\nPress 1 to retreat"
+  nextStorySegments:
+  - {fileID: 11400000, guid: 2ac6c48b49926254981e83c1c6316dea, type: 2}

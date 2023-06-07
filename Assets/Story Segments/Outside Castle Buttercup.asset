@@ -26,3 +26,6 @@ MonoBehaviour:
     leading across the moat to the castle entrance. \r\n\r\nWhat do you, the great
     warrior, Bernard, do next?\r\n\r\nPress 1 to employ stealth and swim across the
     moat\r\n\r\nPress 2 to boldly charge across the drawbridge"
+  nextStorySegments:
+  - {fileID: 11400000, guid: 2483953a279d9894ab376d7010e073be, type: 2}
+  - {fileID: 11400000, guid: 1e43de26a2755de439de097265ddb1f9, type: 2}

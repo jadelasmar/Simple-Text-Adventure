@@ -22,3 +22,6 @@ MonoBehaviour:
     \r\n\r\nThe door still stands before you with no sign you have had any effect
     on it. \r\n\r\nThe key is looking like a very attractive option right now. \r\n\r\nPress
     1 to reconsider your options\r"
+  nextStorySegments:
+  - {fileID: 11400000, guid: 3612e72f7fee53c4b804f8b3de979a23, type: 2}
+  - {fileID: 11400000, guid: ae41247223a5dac46ad933d6bbe86427, type: 2}

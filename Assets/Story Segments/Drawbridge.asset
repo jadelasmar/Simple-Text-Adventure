@@ -25,3 +25,5 @@ MonoBehaviour:
     \r\n\r\nYou march across the drawbridge laying waste to the hideous creatures
     with buckets of water as you go. You reach the end of the drawbridge.\r\n\r\nPress
     1 to enter the castle"
+  nextStorySegments:
+  - {fileID: 11400000, guid: 8a6500f9e6f015a47b685433dacc57f3, type: 2}
