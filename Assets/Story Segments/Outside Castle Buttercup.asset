@@ -12,3 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e812006f30ca09409b2311de5fe0bdb, type: 3}
   m_Name: Outside Castle Buttercup
   m_EditorClassIdentifier: 
+  storyText: "Outside Castle Buttercup\r\n\r\nMedieval times\r\n\r\nYou, the great
+    warrior, Bernard, stand before the Castle Buttercup.  You have come here to rescue
+    Princess Luscious who is locked away in the castle tower.  She was kidnapped
+    by the evil King Buttercup \u2013 some grievance over being teased when he was
+    a child in school.  Hey, his last name is BUTTERCUP.  You were not going to just
+    let that slide! \r\n\r\nKing Buttercup and his guards are no match against the
+    strength and agility of a great warrior such as yourself.  Actually, you are
+    quite near sighted and have no eye / hand coordination whatsoever.  But, you
+    are not about to let that keep you from saving your beloved, your honey bunch,
+    your main squeeze, your love bunny\u2026you get the idea.  She is REALLY curvy
+    too!\r\n\r\nThe castle is surrounded by a moat.  A drawbridge stands before you
+    leading across the moat to the castle entrance. \r\n\r\nWhat do you, the great
+    warrior, Bernard, do next?\r\n\r\nPress 1 to employ stealth and swim across the
+    moat\r\n\r\nPress 2 to boldly charge across the drawbridge"

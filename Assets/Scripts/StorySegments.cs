@@ -5,5 +5,5 @@ using UnityEngine;
 [CreateAssetMenu(menuName = "Story Segment")]
 public class StorySegments : ScriptableObject
 {
-   public string storyText;
+   [TextArea(25,14)] public string storyText;
 }
